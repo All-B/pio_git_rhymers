@@ -15,3 +15,5 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
             super.countIn(in);
     }
 }
+
+// alt + strzalki zmieniaja karty z kodem
